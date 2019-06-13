@@ -1,0 +1,11 @@
+C:\Users\cyril\source\repos\WebSocketExample\WebSocketExample\bin\Debug\netcoreapp2.2\WebSocketExample.deps.json
+C:\Users\cyril\source\repos\WebSocketExample\WebSocketExample\bin\Debug\netcoreapp2.2\WebSocketExample.runtimeconfig.json
+C:\Users\cyril\source\repos\WebSocketExample\WebSocketExample\bin\Debug\netcoreapp2.2\WebSocketExample.runtimeconfig.dev.json
+C:\Users\cyril\source\repos\WebSocketExample\WebSocketExample\bin\Debug\netcoreapp2.2\WebSocketExample.dll
+C:\Users\cyril\source\repos\WebSocketExample\WebSocketExample\obj\Debug\netcoreapp2.2\WebSocketExample.csprojAssemblyReference.cache
+C:\Users\cyril\source\repos\WebSocketExample\WebSocketExample\obj\Debug\netcoreapp2.2\WebSocketExample.csproj.CoreCompileInputs.cache
+C:\Users\cyril\source\repos\WebSocketExample\WebSocketExample\obj\Debug\netcoreapp2.2\WebSocketExample.RazorAssemblyInfo.cache
+C:\Users\cyril\source\repos\WebSocketExample\WebSocketExample\obj\Debug\netcoreapp2.2\WebSocketExample.RazorAssemblyInfo.cs
+C:\Users\cyril\source\repos\WebSocketExample\WebSocketExample\obj\Debug\netcoreapp2.2\WebSocketExample.AssemblyInfoInputs.cache
+C:\Users\cyril\source\repos\WebSocketExample\WebSocketExample\obj\Debug\netcoreapp2.2\WebSocketExample.AssemblyInfo.cs
+C:\Users\cyril\source\repos\WebSocketExample\WebSocketExample\obj\Debug\netcoreapp2.2\WebSocketExample.RazorTargetAssemblyInfo.cache
